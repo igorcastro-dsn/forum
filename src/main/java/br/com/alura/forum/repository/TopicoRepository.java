@@ -1,7 +1,7 @@
 package br.com.alura.forum.repository;
 
-import java.util.List;
-
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import br.com.alura.forum.modelo.Topico;
@@ -15,9 +15,10 @@ public interface TopicoRepository extends JpaRepository<Topico, Long>{
 	 * atributo da classe (caso esteja gerando conflito com outros atributos)
 	 * 
 	 * @param nomeDoCurso
+	 * @param paginacao 
 	 * @return lista de Topico
 	 */
-	List<Topico> findByCursoNome(String nomeDoCurso);
+	Page<Topico> findByCursoNome(String nomeDoCurso, PageRequest paginacao);
 	
 	
 	/**
