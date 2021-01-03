@@ -1,4 +1,4 @@
-package br.com.alura.forum.config.validacao;
+package br.com.alura.forum.config.security;
 
 import java.util.Optional;
 
