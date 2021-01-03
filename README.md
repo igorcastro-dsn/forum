@@ -1,17 +1,22 @@
 # Getting Started
+Projeto de estudo implementado seguindo dois cursos específicos da [Alura](https://www.alura.com.br/)
+* [Spring Boot API REST: Construa uma API](https://www.alura.com.br/curso-online-spring-boot-api-rest)
+* [Spring Boot API Rest: Segurança da API, Cache e Monitoramento](https://www.alura.com.br/curso-online-spring-boot-seguranca-cache-monitoramento)
 
-### Reference Documentation
-For further reference, please consider the following sections:
+### Funcionalidades estudadas e implementadas no projeto
+* API REST com Spring Boot (CRUD completo)
+* Paginação e ordenação em listagens
+* Injeção de dependências
+* Utilização do JPA com Hibernate no banco em memória H2
+* Criação de _repositories_ utilizando JpaRepository, com métodos customizados.
+* Armazenamento e invalidação de objetos em cache
+* Objetos diferentes para trafegar dados (dto e form)
+* Validação com _Bean Validation_
+* Manipulação customizada de exceptions com @RestControllerAdvice, @ExceptionHandler e etc.
+* Segurança de endpoints, com configurações para acesso público e outros fechados com necessidade de autenticação
+* Autenticação na API através de token JWT.
+* Documentação com Swagger (utilizando [SwaggerFox](http://springfox.github.io/springfox/)).
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.4.1/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.4.1/maven-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.4.1/reference/htmlsingle/#boot-features-developing-web-applications)
-
-### Guides
-The following guides illustrate how to use some features concretely:
-
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
+### Insights
+* Executar o projeto e acessar a página Swagger em /swagger-ui.html para avaliar os endpoints disponíveis
 
