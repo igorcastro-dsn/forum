@@ -13,7 +13,7 @@ Projeto de estudo implementado seguindo dois cursos específicos da [Alura](http
 * Objetos diferentes para trafegar dados (dto e form)
 * Validação com _Bean Validation_
 * Manipulação customizada de exceptions com @RestControllerAdvice, @ExceptionHandler e etc.
-* Segurança de endpoints, com configurações para acesso público e outros fechados com necessidade de autenticação
+* Segurança de endpoints, com endpoints públicos e outros fechados com necessidade de autenticação
 * Autenticação na API através de token JWT.
 * Documentação com Swagger (utilizando [SwaggerFox](http://springfox.github.io/springfox/)).
 
