@@ -17,6 +17,6 @@ Projeto de estudo implementado seguindo dois cursos específicos da [Alura](http
 * Autenticação na API através de token JWT.
 * Documentação com Swagger (utilizando [SwaggerFox](http://springfox.github.io/springfox/)).
 
-### Insights
-* Executar o projeto e acessar a página Swagger em /swagger-ui.html para avaliar os endpoints disponíveis
+### Insight
+Executar o projeto e acessar a página Swagger em /swagger-ui.html para avaliar os endpoints disponíveis
 
