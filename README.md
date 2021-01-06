@@ -21,5 +21,6 @@ Projeto de estudo implementado seguindo dois cursos específicos da [Alura](http
 
 ### Insight
 - Executar o projeto e acessar a página Swagger em /swagger-ui.html para avaliar os endpoints disponíveis
-- [*Anotações Particulares*](https://docs.google.com/document/d/1M2R0H6PAAvseix4iMVrsaAAHf-gv-GVLBUwa1rnFQBY/edit)
+- [*Anotações Particulares 1*](https://docs.google.com/document/d/1xkbVFYIhZ4Ve3SFTLosOc2lhvb76h9wwFhHsW0NmMMk/edit)
+- [*Anotações Particulares 2*](https://docs.google.com/document/d/1V3SxYbsXZIUMtXWQdf2InYvVR6qjIIykBUMCOmPEEiE/edit)
 
