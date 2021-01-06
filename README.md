@@ -20,5 +20,6 @@ Projeto de estudo implementado seguindo dois cursos específicos da [Alura](http
 * Documentação com Swagger (utilizando [SwaggerFox](http://springfox.github.io/springfox/)).
 
 ### Insight
-Executar o projeto e acessar a página Swagger em /swagger-ui.html para avaliar os endpoints disponíveis
+- Executar o projeto e acessar a página Swagger em /swagger-ui.html para avaliar os endpoints disponíveis
+- [*Anotações Particulares*](https://docs.google.com/document/d/1jbDFyPpmoMfutS3olJjuwR29Wq7ZjTPTxC3o7CINeDM/edit?usp=drive_web&ouid=113863840271992826120)
 
