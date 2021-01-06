@@ -16,7 +16,7 @@ Projeto de estudo implementado seguindo dois cursos específicos da [Alura](http
 * Segurança de endpoints, com endpoints públicos e outros fechados com necessidade de autenticação
 * Autenticação na API através de token JWT.
 * Exposição de métricas da aplicação através do Spring Boot Actuator.
-* Projeto configurado como _client_ do [Spring Boot Admin](https://github.com/codecentric/spring-boot-admin)
+* Projeto configurado como _client_ do [Spring Boot Admin](https://github.com/igorcastro-dsn/spring-boot-admin) 
 * Documentação com Swagger (utilizando [SwaggerFox](http://springfox.github.io/springfox/)).
 
 ### Insight
